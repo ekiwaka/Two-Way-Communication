@@ -1,0 +1,5 @@
+﻿  fox.cpp
+C:\Users\simpl\Desktop\Two Way Communication\Fox\fox.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simpl\Desktop\Two Way Communication\Fox\fox.cpp(147,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\simpl\Desktop\Two Way Communication\Fox\fox.cpp(208): warning C4715: 'Fox::create_animal': not all control paths return a value
+  Fox.vcxproj -> C:\Users\simpl\Desktop\Two Way Communication\Debug\Fox.exe

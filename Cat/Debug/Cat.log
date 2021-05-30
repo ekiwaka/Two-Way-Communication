@@ -1,0 +1,4 @@
+﻿  cat.cpp
+C:\Users\simpl\Desktop\Two Way Communication\Cat\cat.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simpl\Desktop\Two Way Communication\Cat\cat.cpp(180): warning C4715: 'Cat::create_animal': not all control paths return a value
+  Cat.vcxproj -> C:\Users\simpl\Desktop\Two Way Communication\Debug\Cat.exe
